@@ -7,16 +7,16 @@ module.exports = {
   "build": "dist",
   "dll": "dll",
   "static": {
-    "development": "/",
-    "test": "/",
+    "development": "",
     "production": ""
   },
   "api": {
-    "development": "/",
-    "test": "/",
+    "development": "",
     "production": "//api.luban.com/"
   },
-  "entry": {},
+  "entry": {
+    "index": "./src/pages/index"
+  },
   "library": {
      "vendor": ['vue','vuex']
   },
@@ -41,5 +41,6 @@ module.exports = {
   "components": "components",
   "scss": "scss",
   "cpmode": "react",
+  "assets": "assets",
   "base64_image_limit": 10240
 }

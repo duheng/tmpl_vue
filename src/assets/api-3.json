@@ -1,0 +1,46 @@
+{
+    "status":0,
+    "message":"成功",
+    "data":{
+        "path":{
+            "path":"首页-》搜索列表页-》商品详情页",
+            "pv":86,
+            "pvRatio":"50%",
+            "uv":46,
+            "uvRatio":"40%",
+            "elapsed":3,
+            "length":10
+        },
+        "info":{
+            "name":"主页",
+            "pv":3976,
+            "uv":1456,
+            "exit":200,
+            "exitRate":"84.6%",
+            "stay":3.5,
+            "click":30
+        },
+        "detail":{
+            "total":32000,
+            "list":[
+                {
+                    "logtime":"2020-04-30 12:32:32",
+                    "cuid":"6E88AECF-6AA2-4290-A0D0-2195C3F13CB6",
+                    "platform":"adr",
+                    "model":"华为P30",
+                    "vid":"60001335",
+                    "country":"中国",
+                    "province":"江苏省",
+                    "city":"南京市",
+                    "ordered":false,
+                    "newUser":true,
+                    "pay":false,
+                    "level":"大众",
+                    "exit":true,
+                    "stay":10,
+                    "click":1
+                }
+            ]
+        }
+    }
+}
