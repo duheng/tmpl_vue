@@ -15,7 +15,7 @@ module.exports = {
     "production": "//api.luban.com/"
   },
   "entry": {
-    "index": "./src/pages/index"
+    "index": "./src/pages/index.js"
   },
   "library": {
      "vendor": ['vue','vuex']
